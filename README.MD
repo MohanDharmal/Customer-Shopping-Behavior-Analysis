@@ -119,21 +119,21 @@ This dashboard enables stakeholders to explore insights dynamically.
 ![Power BI Dashboard](/Screenshots/Screenshot_20260105_135654.png)
 
 ### 🧮 SQL Analysis (PostgreSQL)
-![SQL Queries]("/Screenshots/Screenshot_20260105_164204.png")
-![SQL Queries]("/Screenshots/Screenshot_20260105_164228.png")
-![SQL Queries]("/Screenshots/Screenshot_20260105_164245.png")
-![SQL Queries]("/Screenshots/Screenshot_20260105_164304.png")
-![SQL Queries]("/Screenshots/Screenshot_20260105_164336.png")
-![SQL Queries]("/Screenshots/Screenshot_20260105_164358.png")
-![SQL Queries]("/Screenshots/Screenshot_20260105_164426.png")
-![SQL Queries]("/Screenshots/Screenshot_20260105_164510.png")
-![SQL Queries]("/Screenshots/Screenshot_20260105_164529.png")
-![SQL Queries]("/Screenshots/Screenshot_20260105_164543.png")
+![SQL Queries](/Screenshots/Screenshot_20260105_164228.png)
+![SQL Queries](/Screenshots/Screenshot_20260105_164204.png)
+![SQL Queries](/Screenshots/Screenshot_20260105_164245.png)
+![SQL Queries](/Screenshots/Screenshot_20260105_164304.png)
+![SQL Queries](/Screenshots/Screenshot_20260105_164336.png)
+![SQL Queries](/Screenshots/Screenshot_20260105_164358.png)
+![SQL Queries](/Screenshots/Screenshot_20260105_164426.png)
+![SQL Queries](/Screenshots/Screenshot_20260105_164510.png)
+![SQL Queries](/Screenshots/Screenshot_20260105_164529.png)
+![SQL Queries](/Screenshots/Screenshot_20260105_164543.png)
 
 ### 🧹 Python EDA & Data Cleaning
-![Python EDA]("\Screenshots\Screenshot_20260105_162203.png")
-![Python EDA]("\Screenshots\Screenshot_20260105_162217.png")
-![Python EDA]("\Screenshots\Screenshot_20260105_162946.png")
+![Python EDA](\Screenshots\Screenshot_20260105_162203.png)
+![Python EDA](\Screenshots\Screenshot_20260105_162217.png)
+![Python EDA](\Screenshots\Screenshot_20260105_162946.png)
 
 
 ---
