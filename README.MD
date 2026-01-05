@@ -116,7 +116,7 @@ This dashboard enables stakeholders to explore insights dynamically.
 ## 📸 Project Screenshots
 
 ### 📊 Power BI Dashboard
-![Power BI Dashboard]("/Screenshots/Screenshot_20260105_135654.png")
+![Power BI Dashboard](/Screenshots/Screenshot_20260105_135654.png)
 
 ### 🧮 SQL Analysis (PostgreSQL)
 ![SQL Queries]("/Screenshots/Screenshot_20260105_164204.png")
