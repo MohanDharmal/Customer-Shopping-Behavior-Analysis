@@ -131,9 +131,9 @@ This dashboard enables stakeholders to explore insights dynamically.
 ![SQL Queries](/Screenshots/Screenshot_20260105_164543.png)
 
 ### 🧹 Python EDA & Data Cleaning
-![Python EDA](\Screenshots\Screenshot_20260105_162203.png)
-![Python EDA](\Screenshots\Screenshot_20260105_162217.png)
-![Python EDA](\Screenshots\Screenshot_20260105_162946.png)
+![Python EDA](/Screenshots/Screenshot_20260105_162203.png)
+![Python EDA](/Screenshots/Screenshot_20260105_162217.png)
+![Python EDA](/Screenshots/Screenshot_20260105_162946.png)
 
 
 ---
